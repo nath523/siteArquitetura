@@ -1,0 +1,25 @@
+td{
+    
+    padding: 4px;
+    text-align: center;
+    background-color:#f85bb1 ;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+th{
+    padding: 4px;
+    text-align: center;
+    background-color:#f02193 ;
+    border-radius: 6px;
+    color: rgb(255, 255, 255);
+}
+
+table{
+    background-color: #f7cce3;
+    padding: 3px;
+}
+
+body{
+    background-color: #ffffff;
+}
